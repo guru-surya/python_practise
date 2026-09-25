@@ -13,6 +13,10 @@ l.sort(reverse=True)
 print(l)
 
 
+git add .
+git commit -m "docs: add test comment"
+git push origin feature/user-login
+
 #  FIBONACCI SERIS
 
 def f(n):
